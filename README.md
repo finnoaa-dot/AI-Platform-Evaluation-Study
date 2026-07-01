@@ -76,11 +76,6 @@ This research created a replicable framework for organizations evaluating AI too
 - Quantifiable frameworks are essential for scaling AI initiatives
 - Change management and training are critical success factors
 
-## Documentation
-
-- **[METHODOLOGY.md](METHODOLOGY.md)** - Detailed research design, data collection methods, and analysis approach
-- **[FINDINGS.md](FINDINGS.md)** - Comprehensive findings, key metrics, and insights
-- **[IMPLEMENTATION_ROADMAP.md](IMPLEMENTATION_ROADMAP.md)** - Phased scaling strategy with business recommendations and budget
 
 ## About This Project
 
